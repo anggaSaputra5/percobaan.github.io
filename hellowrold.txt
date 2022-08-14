@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hello world1
-=======
-hello
-123
->>>>>>> 6d705ab13c80048e2ee0c1bd94f8c168126bfe87
+tes 123
